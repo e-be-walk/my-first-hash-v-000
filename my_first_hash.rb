@@ -1,5 +1,5 @@
 def my_hash
-  my_hash[:key] = "variable"
+  hash_name[:key] = "variable"
 end
 
 
