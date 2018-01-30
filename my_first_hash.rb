@@ -1,5 +1,6 @@
 def my_hash
-  hash_name[:key] = "variable"
+  hash_name = Hash.new
+  hash_name = {"hash_key1" => "One Hash Item", "hash_key2" => "Two Hash Items"}
 end
 
 
